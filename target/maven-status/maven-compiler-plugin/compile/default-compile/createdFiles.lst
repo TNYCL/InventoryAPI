@@ -1,0 +1,6 @@
+com\craftrise\inventory\PagedData.class
+com\craftrise\inventory\PagedInventory.class
+com\craftrise\listener\InventoryListener.class
+com\craftrise\inventory\PagedItem.class
+com\craftrise\util\ChatUtil.class
+com\craftrise\PagedMain.class
