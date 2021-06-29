@@ -1,4 +1,4 @@
-package com.craftrise.listener;
+package com.inventoryapi.listener;
 
 import org.bukkit.ChatColor;
 import org.bukkit.Material;
@@ -9,9 +9,9 @@ import org.bukkit.event.inventory.InventoryClickEvent;
 import org.bukkit.inventory.ItemStack;
 import org.bukkit.inventory.meta.ItemMeta;
 
-import com.craftrise.inventory.PagedData;
-import com.craftrise.inventory.PagedInventory;
-import com.craftrise.util.ChatUtil;
+import com.inventoryapi.inventory.PagedData;
+import com.inventoryapi.inventory.PagedInventory;
+import com.inventoryapi.util.ChatUtil;
 
 public class InventoryListener implements Listener {
 

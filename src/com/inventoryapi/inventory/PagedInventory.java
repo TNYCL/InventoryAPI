@@ -1,4 +1,4 @@
-package com.craftrise.inventory;
+package com.inventoryapi.inventory;
 
 import java.util.ArrayList;
 import java.util.List;
@@ -10,7 +10,7 @@ import org.bukkit.inventory.Inventory;
 import org.bukkit.inventory.ItemStack;
 import org.bukkit.inventory.meta.ItemMeta;
 
-import com.craftrise.util.ChatUtil;
+import com.inventoryapi.util.ChatUtil;
 
 public class PagedInventory {
 	

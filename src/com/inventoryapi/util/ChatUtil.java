@@ -1,4 +1,4 @@
-package com.craftrise.util;
+package com.inventoryapi.util;
 
 import org.bukkit.ChatColor;
 import org.bukkit.entity.Player;

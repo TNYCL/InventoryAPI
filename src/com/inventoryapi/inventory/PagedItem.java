@@ -1,4 +1,4 @@
-package com.craftrise.inventory;
+package com.inventoryapi.inventory;
 
 import org.bukkit.inventory.ItemStack;
 

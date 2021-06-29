@@ -1,8 +1,8 @@
-package com.craftrise;
+package com.inventoryapi;
 
 import org.bukkit.plugin.java.JavaPlugin;
 
-import com.craftrise.listener.InventoryListener;
+import com.inventoryapi.listener.InventoryListener;
 
 public class PagedMain extends JavaPlugin {
 	
